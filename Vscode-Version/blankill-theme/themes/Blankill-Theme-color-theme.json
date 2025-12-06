@@ -34,7 +34,6 @@
     { "scope": "storage.modifier", "settings": { "foreground": "#FF8300" } },
     { "scope": "keyword.operator", "settings": { "foreground": "#00D0FF" } },
     { "scope": "punctuation", "settings": { "foreground": "#FFFFFF" } },
-    
-    
+  
   ]
 }

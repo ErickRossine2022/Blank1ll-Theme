@@ -101,6 +101,18 @@ code --install-extension blankill-theme-x.x.x.vsix
 
 ---
 
+## 📸 Screenshots
+
+### 💻 Editor (Código)
+![Screenshot 1](./foto1.png)
+
+### 🧩 Estrutura + Editor
+![Screenshot 2](./foto2.png)
+
+### 🎨 Destaque de Sintaxe
+![Screenshot 3](./foto3.png)
+
+
 ## 💬 Contato / Suporte
 
 - Autor: Blankill The Dev
