@@ -1,9 +1,0 @@
-{
-    "clients": {
-        "csharp": {
-            "enabled": true,
-            "command": ["/home/erickrossine/.dotnet/tools/csharp-ls"],
-            "selector": "source.cs"
-        }
-    }
-}

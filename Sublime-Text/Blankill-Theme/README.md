@@ -1,4 +1,4 @@
-# 🎨 Blankill Theme — Sublime Text
+# 🎨 Blankill Theme — Primeira Versão Sublime Text Blankill Theme 1.0.0
 
 Um tema escuro **minimalista**, com acento lilás suave 💜  
 Projetado para **conforto visual**, **equilíbrio de contraste** e **foco absoluto no código**.
