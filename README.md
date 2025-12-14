@@ -48,3 +48,7 @@ VS Code → Extensions → **Blankill Theme**
 - Visual adjustments
 
 Minimal. Dark. Productive.
+<<<<<<< HEAD
+=======
+
+>>>>>>> ff7449f35a44bcc37ba10de05b9109b2ae4ebce2
