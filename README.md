@@ -1,133 +1,51 @@
+# Blankill Theme
 
-# 🎨 Blankill Theme
+A **dark theme built for focus**.  
+Minimal visuals, high contrast, no distractions.
 
-Um tema criado **de desenvolvedor para desenvolvedor**, com foco em conforto visual, contraste equilibrado e leitura clara em sessões longas de código.
-
----
-
-## 📦 Opções de Instalação
-
-Você pode instalar o tema de **duas formas**:
-
-1. **Manual (Windows e Linux)**
-2. **Via VS Code (instalação direta do `.vsix`)**
+Created by **Blankill The Dev (Erick Rossine)**  
+Back-end Developer — Brazil 🇧🇷
 
 ---
 
-## 🛠️ 1. Instalação Manual (Linux)
+## Preview
 
-### 📍 Caminho da pasta de extensões no Linux:
-
-```bash
-~/.vscode/extensions/
-```
-
-### ▶️ Passo a passo
-
-1. Baixe ou copie a pasta `blankill-theme`.
-2. Coloque ela dentro do diretório:
-
-```bash
-cp -r blankill-theme ~/.vscode/extensions/
-```
-3. Reinicie o VS Code.
-4. Vá em:
-
-```
-Configurações → Tema de Cores → Blankill Theme
-```
+![Preview](images/foto1.png)
 
 ---
 
-## 🪟 2. Instalação Manual (Windows)
+## Gallery
 
-### 📍 Caminho da pasta de extensões no Windows:
-
-```
-C:\Users\SEU_USUARIO\.vscode\extensions\
-```
-
-### ▶️ Passo a passo
-
-1. Baixe a pasta `blankill-theme`.
-2. Copie para o diretório acima.
-3. Reinicie o VS Code.
-4. Selecione o tema:
-
-```
-Ctrl + Shift + P → Tema de Cores → Blankill Theme
-```
+![Editor](images/foto1.png)
+![Editor](images/foto2.png)
+![Code Highlight](images/foto3.png)
 
 ---
 
-## 📦 3. Instalação via VS Code (Arquivo .vsix)
+## Demo
 
-Se você tiver o arquivo:
-
-```
-blankill-theme-x.x.x.vsix
-```
-
-### ▶️ Instalar pelo VS Code (interface)
-
-1. Abra o VS Code
-2. Vá em:
-
-```
-Extensões → ⋮ (menu de 3 pontos) → Install from VSIX...
-```
-3. Selecione o arquivo `.vsix`
-4. Ative o tema:
-
-```
-Ctrl + Shift + P → Tema de Cores → Blankill Theme
-```
-
-### ▶️ Instalar pelo terminal
-
-**Linux:**
-
-```bash
-code --install-extension blankill-theme-x.x.x.vsix
-```
-
-**Windows (PowerShell):**
-
-```powershell
-code --install-extension blankill-theme-x.x.x.vsix
-```
+![Demo](images/demo.gif)
 
 ---
 
----
+## Installation
 
-## 📸 Screenshots
-
-### 💻 Editor (Código)
-![Screenshot 1](./foto1.png)
-
-### 🧩 Estrutura + Editor
-![Screenshot 2](./foto2.png)
-
-### 🎨 Destaque de Sintaxe
-![Screenshot 3](./foto3.png)
-
-
-## 💬 Contato / Suporte
-
-- Autor: Blankill The Dev
-- Repositório: *https://github.com/ErickRossine2022/Blank1ll-Theme*
-- discord: *https://discord.gg/ukejqYHByy*
+VS Code → Extensions → **Blankill Theme**
 
 ---
 
-### ✔️ Observação Importante
+## Links
 
-Se a pasta **não aparecer** no explorador de arquivos:
-
-- Windows: mostrar arquivos ocultos
-- Linux: `Ctrl + H` para exibir `.vscode`
+- YouTube: https://www.youtube.com/@erickd7s  
+- Discord: https://discord.gg/vcnB2tJjNX
 
 ---
+## Changelog
 
-## 🚀 Bom código e aproveite o tema!
+### 1.0.2
+- Improved syntax highlighting
+- Better HTML & CSS compatibility
+- Visual adjustments
+
+Minimal. Dark. Productive.
+
