@@ -87,7 +87,7 @@ I hope you like it!
 
 ## Changelog
 
-### 1.0.2
+### 1.0.3
 - Improved syntax highlighting  
 - Better HTML & CSS compatibility  
 - Visual adjustments  
