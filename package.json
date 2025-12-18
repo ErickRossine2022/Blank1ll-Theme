@@ -2,27 +2,23 @@
   "name": "blankill-theme",
   "displayName": "Blankill Theme",
   "description": "Created by a dev who spends hours in VS Code, for devs who do the same. Simple, straightforward, and comfortable.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "blankillnetwork",
-
   "icon": "Blankilltheme_Logo.png",
-
   "engines": {
     "vscode": "^1.85.0"
   },
-
   "repository": {
     "type": "git",
     "url": "https://github.com/ErickRossine2022/Blank1ll-Theme"
   },
-
-  "categories": ["Themes"],
-
+  "categories": [
+    "Themes"
+  ],
   "galleryBanner": {
     "color": "#0c0c0c",
     "theme": "dark"
   },
-
   "contributes": {
     "themes": [
       {
