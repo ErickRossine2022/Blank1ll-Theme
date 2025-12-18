@@ -26,9 +26,9 @@ I hope you like it!
 
 ### Theme Prime
 
-![Editor](images/Foto1_v1.png)
-![Editor](images/Foto2_v1.png)
-![Editor](images/Foto3_v1.png)
+![Editor](images/Foto1.png)
+![Editor](images/Foto2.png)
+![Editor](images/Foto3.png)
 
 
 ---
