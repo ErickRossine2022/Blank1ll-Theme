@@ -2,7 +2,7 @@
   "name": "blankill-theme",
   "displayName": "Blankill Theme",
   "description": "Created by a dev who spends hours in VS Code, for devs who do the same. Simple, straightforward, and comfortable.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "blankillnetwork",
   "icon": "Blankilltheme_Logo.png",
   "engines": {
