@@ -1,6 +1,6 @@
 # Blankill Theme
 
-# Developer Theme
+## Developer Theme
 
 Theme created **by a developer for developers**.
 
@@ -11,44 +11,54 @@ I hope you like it!
 
 ---
 
-**Author:** Erick Rossine [@blankillTheDev]  
+**Author:** Erick Rossine (@blankillTheDev)  
 **Country:** Brazil (pt-BR)
 
 ---
 
 ## Preview
 
-![Preview](images/foto4.png)
+![Preview](images/Foto4.png)
 
 ---
 
 ## Gallery
 
-Theme Prime
+### Theme Prime
 
-![Editor](images/foto1.png)
-![Editor](images/foto2.png)
-![Editor](images/foto3.png)
+![Editor](images/Foto1.png)
+![Editor](images/Foto2.png)
+![Editor](images/Foto3.png)
 
-Theme Default
+---
 
-![Editor](images/foto8.png)
+### Theme Default
 
-Theme Black
+![Editor](images/Foto8.png)
 
-![Editor](images/foto4.png)
+---
 
-Theme White
+### Theme Black
 
-![Editor](images/foto6.png)
+![Editor](images/Foto4.png)
 
-Theme Brown
+---
 
-![Editor](images/foto7.png)
+### Theme White
 
-Theme Blue
+![Editor](images/Foto6.png)
 
-![Editor](images/foto5.png)
+---
+
+### Theme Brown
+
+![Editor](images/Foto7.png)
+
+---
+
+### Theme Blue
+
+![Editor](images/Foto5.png)
 
 ---
 
@@ -60,25 +70,27 @@ Theme Blue
 
 ## Installation
 
-VS Code → Extensions → **Blankill Theme**
+1. Open **Visual Studio Code**
+2. Go to **Extensions**
+3. Search for **Blankill Theme**
+4. Install and enjoy 🚀
 
 ---
 
 ## Links
 
 - YouTube: https://www.youtube.com/@erickd7s  
-- Discord: https://discord.gg/vcnB2tJjNX
+- Discord: https://discord.gg/vcnB2tJjNX  
 
 ---
+
 ## Changelog
 
 ### 1.0.2
-- Improved syntax highlighting
-- Better HTML & CSS compatibility
-- Visual adjustments
+- Improved syntax highlighting  
+- Better HTML & CSS compatibility  
+- Visual adjustments  
 
-Minimal. Dark. Productive.
-<<<<<<< HEAD
-=======
+---
 
->>>>>>> ff7449f35a44bcc37ba10de05b9109b2ae4ebce2
+**Minimal. Dark. Productive.**
