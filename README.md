@@ -18,7 +18,7 @@ I hope you like it!
 
 ## Preview
 
-![Preview](images/Foto4.png)
+![Preview](https://raw.githubusercontent.com/ErickRossine2022/Blank1ll-Theme/main/images/Foto4.png)
 
 ---
 
@@ -26,46 +26,45 @@ I hope you like it!
 
 ### Theme Prime
 
-![Editor](images/Foto1.png)
-![Editor](images/Foto2.png)
-![Editor](images/Foto3.png)
-
+![Editor](https://raw.githubusercontent.com/ErickRossine2022/Blank1ll-Theme/main/images/Foto1.png)
+![Editor](https://raw.githubusercontent.com/ErickRossine2022/Blank1ll-Theme/main/images/Foto2.png)
+![Editor](https://raw.githubusercontent.com/ErickRossine2022/Blank1ll-Theme/main/images/Foto3.png)
 
 ---
 
 ### Theme Default
 
-![Editor](images/Foto8.png)
+![Editor](https://raw.githubusercontent.com/ErickRossine2022/Blank1ll-Theme/main/images/Foto8.png)
 
 ---
 
 ### Theme Black
 
-![Editor](images/Foto4.png)
+![Editor](https://raw.githubusercontent.com/ErickRossine2022/Blank1ll-Theme/main/images/Foto4.png)
 
 ---
 
 ### Theme White
 
-![Editor](images/Foto6.png)
+![Editor](https://raw.githubusercontent.com/ErickRossine2022/Blank1ll-Theme/main/images/Foto6.png)
 
 ---
 
 ### Theme Brown
 
-![Editor](images/Foto7.png)
+![Editor](https://raw.githubusercontent.com/ErickRossine2022/Blank1ll-Theme/main/images/Foto7.png)
 
 ---
 
 ### Theme Blue
 
-![Editor](images/Foto5.png)
+![Editor](https://raw.githubusercontent.com/ErickRossine2022/Blank1ll-Theme/main/images/Foto5.png)
 
 ---
 
 ## Demo
 
-![Demo](images/demo.gif)
+![Demo](https://raw.githubusercontent.com/ErickRossine2022/Blank1ll-Theme/main/images/demo.gif)
 
 ---
 
