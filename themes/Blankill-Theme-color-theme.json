@@ -1,4 +1,5 @@
 {
+  "$schema": "vscode://schemas/color-theme",
   "name": "Blankill Theme Default",
   "type": "dark",
   "colors": {
@@ -49,42 +50,37 @@
 
     {
       "scope": "constant.numeric",
-      "settings": { "foreground": "#D4D4D4" }
+      "settings": { "foreground": "#855cf7" }
     },
 
     {
       "scope": "keyword",
-      "settings": { "foreground": "#FF5370" }
+      "settings": { "foreground": "#165eca" }
     },
 
     {
       "scope": "storage.type",
-      "settings": { "foreground": "#C792EA" }
+      "settings": { "foreground": "#ffffff" }
     },
 
     {
       "scope": "entity.name.type",
-      "settings": { "foreground": "#C792EA" }
+      "settings": { "foreground": "#ff5100" }
     },
 
     {
       "scope": "entity.name.function",
-      "settings": { "foreground": "#4DD0E1" }
+      "settings": { "foreground": "#855cf7" }
     },
 
     {
       "scope": "storage.modifier",
-      "settings": { "foreground": "#FF9F43" }
+      "settings": { "foreground": "#978585" }
     },
 
     {
       "scope": "keyword.operator",
-      "settings": { "foreground": "#89DDFF" }
-    },
-
-    {
-      "scope": "punctuation",
-      "settings": { "foreground": "#EDEDED" }
+      "settings": { "foreground": "#ffffff" }
     },
 
     {

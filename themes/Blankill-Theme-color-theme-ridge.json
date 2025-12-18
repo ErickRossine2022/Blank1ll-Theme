@@ -1,4 +1,5 @@
 {
+  "$schema": "vscode://schemas/color-theme",
   "name": "Blankill Theme Night Ridge",
   "type": "dark",
 
@@ -47,68 +48,60 @@
     },
 
     {
-      "scope": "string",
+      "scope": "keyword.control",
       "settings": {
-        "foreground": "#9ED2B3"
-      }
-    },
-
-    {
-      "scope": "constant.numeric",
-      "settings": {
-        "foreground": "#C8D6E5"
+        "foreground": "#FFD166",
+        "fontStyle": "bold"
       }
     },
 
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#6FAED9"
+        "foreground": "#B38BFA"
       }
     },
 
     {
-      "scope": "storage.type",
+      "scope": [
+        "storage.type",
+        "entity.name.type",
+        "support.class"
+      ],
       "settings": {
-        "foreground": "#8FAADC"
-      }
-    },
-
-    {
-      "scope": "entity.name.type",
-      "settings": {
-        "foreground": "#8FAADC"
+        "foreground": "#A78BFA"
       }
     },
 
     {
       "scope": [
         "entity.name.function",
-        "support.function"
+        "support.function",
+        "meta.function-call"
       ],
       "settings": {
-        "foreground": "#7FD1F2"
-      }
-    },
-
-    {
-      "scope": "meta.function-call",
-      "settings": {
-        "foreground": "#5FB3E6"
-      }
-    },
-
-    {
-      "scope": "support.class",
-      "settings": {
-        "foreground": "#8FAADC"
+        "foreground": "#6EC1E4"
       }
     },
 
     {
       "scope": "storage.modifier",
       "settings": {
-        "foreground": "#DCE6ED"
+        "foreground": "#E0E6ED"
+      }
+    },
+
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#8FD3E8"
+      }
+    },
+
+    {
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#9FB3C8"
       }
     },
 
@@ -122,17 +115,15 @@
     {
       "scope": "punctuation",
       "settings": {
-        "foreground": "#DCE6ED"
+        "foreground": "#8A9BA8"
       }
     },
-
     {
       "scope": "punctuation.section.block",
       "settings": {
         "foreground": "#6FAED9"
       }
     },
-
     {
       "scope": "punctuation.section.parens",
       "settings": {
@@ -149,32 +140,29 @@
     {
       "scope": "entity.other.attribute-name.html",
       "settings": {
-        "foreground": "#9ED2B3"
+        "foreground": "#FFD166"
       }
     },
 
     {
       "scope": "entity.name.selector.css",
       "settings": {
-        "foreground": "#8FAADC"
+        "foreground": "#B38BFA"
       }
     },
     {
       "scope": "support.type.property-name.css",
       "settings": {
-        "foreground": "#DCE6ED"
+        "foreground": "#E0E6ED"
       }
     },
     {
-      "scope": "constant.other.color.rgb-value.css",
+      "scope": [
+        "constant.other.color.rgb-value.css",
+        "constant.numeric.css"
+      ],
       "settings": {
-        "foreground": "#9ED2B3"
-      }
-    },
-    {
-      "scope": "constant.numeric.css",
-      "settings": {
-        "foreground": "#9ED2B3"
+        "foreground": "#FFD166"
       }
     }
   ]

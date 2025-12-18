@@ -1,4 +1,5 @@
 {
+  "$schema": "vscode://schemas/color-theme",
   "name": "Blankill Theme Black",
   "type": "dark",
 
@@ -18,23 +19,23 @@
     "activityBar.background": "#0A0A0A",
     "activityBar.foreground": "#BBBBBB",
     "activityBar.inactiveForeground": "#666666",
-    "activityBar.activeBorder": "#9A7AFF",
+    "activityBar.activeBorder": "#FF6A2A",
 
     "button.background": "#1A1A1A",
     "button.foreground": "#DDDDDD",
-    "button.hoverBackground": "#2A2A2A",
+    "button.hoverBackground": "#FF6A2A",
 
-    "focusBorder": "#9A7AFF",
+    "focusBorder": "#FF6A2A",
 
-    "progressBar.background": "#9A7AFF",
+    "progressBar.background": "#FF6A2A",
 
-    "badge.background": "#1A1A1A",
+    "badge.background": "#FF6A2A",
     "badge.foreground": "#FFFFFF",
 
     "list.inactiveSelectionBackground": "#111111",
     "list.activeSelectionBackground": "#1A1A1A",
     "list.hoverBackground": "#141414",
-    "list.highlightForeground": "#9A7AFF"
+    "list.highlightForeground": "#FF6A2A"
   },
 
   "tokenColors": [
@@ -63,14 +64,14 @@
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#9b66fd"
       }
     },
 
     {
       "scope": "storage.type",
       "settings": {
-        "foreground": "#B38BFA"
+        "foreground": "#A98AF7"
       }
     },
 
@@ -108,7 +109,7 @@
     {
       "scope": "storage.modifier",
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#ff6c6c"
       }
     },
 

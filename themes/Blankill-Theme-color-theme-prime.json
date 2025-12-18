@@ -1,32 +1,40 @@
 {
+  "$schema": "vscode://schemas/color-theme",
   "name": "Blankill Theme Prime",
   "type": "dark",
   "colors": {
-    "editor.background": "#1C1C1C",
-    "editor.foreground": "#FFFFFF",
+    "editor.background": "#181818",
+    "editor.foreground": "#EDEDED",
 
-    "editor.selectionBackground": "#4e2f2f",
-    "editor.lineHighlightBackground": "#856363",
+    "editor.selectionBackground": "#3A2E4F",
+    "editor.lineHighlightBackground": "#242424",
 
-    "editorCursor.foreground": "#d8b5ff",
+    "editorCursor.foreground": "#C792EA",
 
-    "sideBar.background": "#1C1C1C",
-    "sideBar.foreground": "#FFFFFF",
+    "sideBar.background": "#141414",
+    "sideBar.foreground": "#EDEDED",
     "sideBar.border": "#000000",
 
     "activityBar.background": "#101010",
-    "activityBar.foreground": "#FFFFFF",
-    "activityBar.activeBorder": "#FF5F24",
+    "activityBar.foreground": "#EDEDED",
+    "activityBar.activeBorder": "#FF6A2A",
     "activityBar.inactiveForeground": "#777777",
 
     "button.background": "#2C2C2C",
     "button.foreground": "#FFFFFF",
     "button.hoverBackground": "#FF6A2A",
 
-    "list.inactiveSelectionBackground": "#2A2A2A",
-    "list.activeSelectionBackground": "#3A3A3A",
-    "list.hoverBackground": "#252525",
-    "list.highlightForeground": "#FF5F24"
+    "focusBorder": "#FF6A2A",
+
+    "progressBar.background": "#FF6A2A",
+
+    "badge.background": "#FF6A2A",
+    "badge.foreground": "#FFFFFF",
+
+    "list.inactiveSelectionBackground": "#262626",
+    "list.activeSelectionBackground": "#333333",
+    "list.hoverBackground": "#202020",
+    "list.highlightForeground": "#FF6A2A"
   },
 
   "tokenColors": [
