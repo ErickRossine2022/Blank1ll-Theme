@@ -60,13 +60,7 @@ I hope you like it!
 
 ![Editor](https://raw.githubusercontent.com/ErickRossine2022/Blank1ll-Theme/main/images/Foto5.png)
 
----
 
-## Demo
-
-![Demo](https://raw.githubusercontent.com/ErickRossine2022/Blank1ll-Theme/main/images/demo.gif)
-
----
 
 ## Installation
 
@@ -86,7 +80,7 @@ I hope you like it!
 
 ## Changelog
 
-### 1.0.5
+### 1.0.6
 - Improved syntax highlighting  
 - Better HTML & CSS compatibility  
 - Visual adjustments  
